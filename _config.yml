@@ -7,7 +7,7 @@ title: 我的博客
 subtitle:
 description:
 keywords:
-author: John Doe
+author: zhengwenyong
 language: en
 timezone:
 
@@ -89,7 +89,7 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:github
-  repo:git@github.com:18292982664/wistbean.git
-  branch：master
+  type: github
+  repo: https://18292982664.github.io/obj/
+  branch: master
 
